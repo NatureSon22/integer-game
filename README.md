@@ -1,16 +1,4 @@
-# webloi
+## NumQuest
+NumQuest is an interactive app designed for students to learn and master operations on integers. It offers three levels (Easy, Average, Difficult) with sublevels focusing on Addition, Subtraction, Multiplication, and Division. It's a fun and effective tool for improving integer operation skills.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
